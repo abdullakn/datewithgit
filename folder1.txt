@@ -1,3 +1,7 @@
 hy abdulla....
 
+<<<<<<< HEAD
 this is update for master branch
+=======
+this is update for login branch
+>>>>>>> login
